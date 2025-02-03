@@ -80,20 +80,20 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-### 📱 Waste Classifier App
+### [📱 Waste Classifier App](https://github.com/AnanyaDassi/Waste-Analyzer-App)
 A **Flutter-based mobile app** that classifies waste into categories (paper, metal, batteries, plastic, organic, clothes, glass, e-waste, light bulbs) using **Machine Learning**. It also locates nearby recycling facilities and features **AR to gamify waste classification**, promoting eco-friendly disposal and recycling practices.  
 🔹 **Tech Stack:** Python, TensorFlow, Google Maps API, Firebase, Flutter, Dart
 
 
-### 🏥 Deep Learning-Based Histopathological Image Analysis  
+### [🏥 Deep Learning-Based Histopathological Image Analysis](https://github.com/AnanyaDassi/Deep-Learning-Based-Histopathological-Image-Analysis)  
 A **deep learning system** for analyzing **histopathological images** to detect cancer. Using **CNNs**, the project classifies images as **cancerous or non-cancerous** for **breast and ovarian cancer**, improving diagnostic accuracy. It features a **web interface** for image upload, with **Firebase integration** for patient data management.  
 🔹 **Tech Stack:** Python, TensorFlow, CNN, Firebase, HTML, CSS 
 
-### 💧 Aqua-Air Health Guard  
+### [💧 Aqua-Air Health Guard](https://github.com/AnanyaDassi/Aqua-Air-Health-Guard)  
 An **IoT-based solution** for monitoring **water and air quality parameters** to ensure a healthier environment. It features a **Django-based frontend** for users to access and visualize sensor data. The system utilizes **MQ9, MQ135, pH, Turbidity, and Temperature sensors** for real-time monitoring.  
 🔹 **Tech Stack:** IoT, Django, Sensors (MQ9, MQ135, pH, Turbidity, Temperature)  
 
-### ✈️ Route Mapping  
+### [✈️ Route Mapping](https://github.com/AnanyaDassi/Route-Mapping) 
 This project uses a modified **Dijkstra algorithm** to find three shortest and cost-effective paths between airports, including those separated by bodies of water. It integrates **real-time weather data** for each airport, addressing air travel navigation challenges and benefiting travelers with optimized, weather-informed routes.  
 🔹 **Tech Stack:** Java, JSP, Servlet, API (Weather and Google Maps)
 
