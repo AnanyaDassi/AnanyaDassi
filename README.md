@@ -93,7 +93,7 @@ A smart application using **Machine Learning** to classify waste and provide **s
 <a href="https://github.com/AnanyaDassi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>  
-<a href="https://www.linkedin.com/in/ananya-dassi-12255a228/?originalSubdomain=in" target="_blank">
+<a href="https://www.linkedin.com/in/ananya-dassi-12255a228/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 
